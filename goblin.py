@@ -85,9 +85,3 @@ class Goblin(GameObject):
 				else:
 						msg = "There is no {} here!".format(noun)
 				return msg
-						
-						
-					
-		
-			
-		 

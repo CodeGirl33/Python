@@ -23,4 +23,3 @@ if guess == number:
 	
 else:
 	print('You did not guess the number, the number was ' + str(number))
-
